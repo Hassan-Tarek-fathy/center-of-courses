@@ -1,0 +1,261 @@
+D:\2022 programing\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.exe
+D:\2022 programing\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.deps.json
+D:\2022 programing\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.runtimeconfig.json
+D:\2022 programing\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.dll
+D:\2022 programing\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.pdb
+D:\2022 programing\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\2022 programing\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.AssemblyReference.cache
+D:\2022 programing\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.Form1.resources
+D:\2022 programing\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.Properties.Resources.resources
+D:\2022 programing\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.GenerateResource.cache
+D:\2022 programing\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\2022 programing\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.AssemblyInfoInputs.cache
+D:\2022 programing\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.AssemblyInfo.cs
+D:\2022 programing\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.CoreCompileInputs.cache
+D:\2022 programing\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.CopyComplete
+D:\2022 programing\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.dll
+D:\2022 programing\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\refint\WinFormsApp4.dll
+D:\2022 programing\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.pdb
+D:\2022 programing\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.genruntimeconfig.cache
+D:\2022 programing\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\ref\WinFormsApp4.dll
+D:\2022 programing\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.forms.Formcours.resources
+D:\2022 programing\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.forms.FormEmployees.resources
+D:\2022 programing\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.forms.FormHome.resources
+D:\2022 programing\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.forms.FormStudents.resources
+D:\2022 programing\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.forms.FormServices.resources
+D:\2022 programing\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.forms.FormDepartments.resources
+D:\2022 programing\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.forms.FormBranches.resources
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.exe
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.deps.json
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.runtimeconfig.json
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.pdb
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.AssemblyReference.cache
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.Form1.resources
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.forms.FormBranches.resources
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.forms.Formcours.resources
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.forms.FormEmployees.resources
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.forms.FormHome.resources
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.forms.FormStudents.resources
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.Properties.Resources.resources
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.GenerateResource.cache
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.AssemblyInfoInputs.cache
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.AssemblyInfo.cs
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.CoreCompileInputs.cache
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.CopyComplete
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.dll
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\refint\WinFormsApp4.dll
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.pdb
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.genruntimeconfig.cache
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\ref\WinFormsApp4.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\EntityFramework.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Humanizer.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.exe
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.deps.json
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.runtimeconfig.json
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.pdb
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\EntityFramework.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Humanizer.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.AssemblyReference.cache
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.Form1.resources
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.forms.FormBranches.resources
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.forms.Formcours.resources
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.forms.FormDepartments.resources
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.forms.FormEmployees.resources
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.forms.FormHome.resources
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.forms.FormServices.resources
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.forms.FormStudents.resources
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.Properties.Resources.resources
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.GenerateResource.cache
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.AssemblyInfoInputs.cache
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.AssemblyInfo.cs
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.CoreCompileInputs.cache
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.CopyComplete
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\refint\WinFormsApp4.dll
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.pdb
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.genruntimeconfig.cache
+E:\Windows\DesktopTemp\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\ref\WinFormsApp4.dll
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.forms.FormTrained.resources
+D:\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.forms.FormRegister.resources
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.exe
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.deps.json
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.runtimeconfig.json
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.pdb
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Humanizer.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.AssemblyReference.cache
+C:\mudrek\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.Form1.resources
+C:\mudrek\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.forms.FormBranches.resources
+C:\mudrek\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.forms.Formcours.resources
+C:\mudrek\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.forms.FormEmployees.resources
+C:\mudrek\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.forms.FormHome.resources
+C:\mudrek\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.forms.FormRegister.resources
+C:\mudrek\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.forms.FormStudents.resources
+C:\mudrek\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.forms.FormTrained.resources
+C:\mudrek\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.Properties.Resources.resources
+C:\mudrek\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.GenerateResource.cache
+C:\mudrek\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\mudrek\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.AssemblyInfoInputs.cache
+C:\mudrek\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.AssemblyInfo.cs
+C:\mudrek\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.CoreCompileInputs.cache
+C:\mudrek\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.CopyComplete
+C:\mudrek\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\refint\WinFormsApp4.dll
+C:\mudrek\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.pdb
+C:\mudrek\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.genruntimeconfig.cache
+C:\mudrek\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\ref\WinFormsApp4.dll
